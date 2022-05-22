@@ -1,0 +1,168 @@
+body{
+    background-color: rgb(37, 35, 35);
+    text-decoration: none;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 45px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.best a{
+    color: white;
+    position: absolute;
+    top: 18px;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.seeall a{
+    color: darkgray;
+    position: absolute;
+    top: 23px;
+    font-size: 14px;
+    font-weight: bolder;
+    margin-left: 1200px;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 26px;
+    padding: 16px;
+}
+
+.song {
+    width: 245px;
+    height: 337px;
+    margin-left: 6px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: rgb(30, 28, 28);
+}
+
+.songname {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.songbio{
+    color: darkgrey;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.song2 {
+    width: 245px;
+    height: 337px;
+    margin-left: 6px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: rgb(30, 28, 28);
+}
+
+.songname2 {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.songbio2 {
+    color: darkgrey;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.song3 {
+    width: 245px;
+    height: 337px;
+    margin-left: 6px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: rgb(30, 28, 28);
+}
+
+.songname3 {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.songbio3 {
+    color: darkgrey;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.song4 {
+    width: 245px;
+    height: 337px;
+    margin-left: 6px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: rgb(30, 28, 28);
+}
+
+.songname4 {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.songbio4 {
+    color: darkgrey;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.song5 {
+    width: 245px;
+    height: 337px;
+    margin-left: 6px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: rgb(30, 28, 28);
+}
+
+.songname5 {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.songbio5 {
+    color: darkgrey;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
